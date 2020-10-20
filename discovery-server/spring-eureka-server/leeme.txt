@@ -1,0 +1,12 @@
+Serrvidor Eureka
+http://localhost:8761/
+
+* Servicio Student registrado
+http://localhost:8098/getStudentDetailsForSchool/abcschool
+
+* Servicio School registrado
+http://localhost:9098//getSchoolDetails/abcschool
+
+* Información de las instancias
+http://localhost:8761/eureka/apps/school-service
+http://localhost:8761/eureka/apps/student-service
